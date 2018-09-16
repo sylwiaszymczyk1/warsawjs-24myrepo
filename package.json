@@ -1,0 +1,19 @@
+{
+  "name": "warsawjs-24myrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylwiaszymczyk1/warsawjs-24myrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sylwiaszymczyk1/warsawjs-24myrepo/issues"
+  },
+  "homepage": "https://github.com/sylwiaszymczyk1/warsawjs-24myrepo#readme"
+}
